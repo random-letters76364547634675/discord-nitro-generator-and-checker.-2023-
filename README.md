@@ -34,7 +34,7 @@ note: If you want to be pinged (@USERNAME) just put your username or user-id beh
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 optinal: use https://cron-job.org to remotly see if your script is still running. ( image )![Screenshot (468)](https://user-images.githubusercontent.com/128254887/226699800-ddb57c0b-b3f3-420b-991f-9db2263caa2c.png)
-just paste the link that is in the "webview" panel seen into the creat menu.
+just paste the link that is in the "webview" panel seen into the create menu.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 for the fast ones that just want to copy the code:
