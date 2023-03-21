@@ -130,3 +130,5 @@ if __name__ == '__main__':
 thats my first script im oploading here! i dont know if i make updates or even upload my other scripts. This acound is ment for me as an throw away account so i could creat an replit account. i used courvix.com for my email and signed on github with that email up so i could create on replit an account using github.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 if anyone even sees my script here: have a nice day :)
+
+-Not my fault if you geting banned, "generating" discord codes and using them is againt the TOS from discord-
